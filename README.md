@@ -1,9 +1,3 @@
-# Redux Router Skeleton
-
-Simple skeleton project ready to be used in everything you want! :)
-
-This is the first step to initialize a project in React Js with 
-Redux + React Router
 
 It's prepared with the next libraries:
 
